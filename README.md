@@ -18,6 +18,9 @@
 ### 📍 ERD
 https://www.erdcloud.com/d/nqAC5qARjpgTrRRzC
 
+### 📍 API 명세서
+https://www.notion.so/API-43535cd7f6c4415d9631aefec7e5f8fd?pvs=4
+
 ### 📍 인프라 구조도
 
 ### 📍 커밋 컨벤션
