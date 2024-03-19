@@ -16,6 +16,7 @@
 - Frontend : `HTML` `CSS` `Javascript`
 
 ### 📍 ERD
+https://www.erdcloud.com/d/nqAC5qARjpgTrRRzC
 
 ### 📍 인프라 구조도
 
